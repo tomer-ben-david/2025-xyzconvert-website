@@ -1,0 +1,7 @@
+{
+  "version": "v2026.02.13",
+  "downloadURL": "https://github.com/tomer-ben-david/2025-xyzconvert-website/releases/download/v0.1.0/XYZConvert_v0.1.0_arm64.dmg",
+  "checksum": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+  "releaseNotes": "Initial update feed bootstrap.",
+  "critical": false
+}
